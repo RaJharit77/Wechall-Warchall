@@ -7,6 +7,7 @@ J'ai débuté le challenge par la lecture du sujet, puis j'ai utilisé les comma
 --bash 
 
 Sur mon terminale : ssh -p19198 rajoharitiana7@warchall.net
+
 rajoharitiana7@warchall.net's password :*****
 
 rajoharitiana7@warchall : /home/level$ 
