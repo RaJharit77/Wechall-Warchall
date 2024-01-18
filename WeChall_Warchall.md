@@ -6,22 +6,22 @@ J'ai débuté le challenge par la lecture du sujet, puis j'ai utilisé les comma
 
 --bash 
 
-Sur mon terminale : ssh -p19198 rajoharitiana7@warchall.net
+Sur mon terminale : ssh -p19198 user@warchall.net
 
-rajoharitiana7@warchall.net's password :*****
+user@warchall.net's password :*****
 
-rajoharitiana7@warchall : /home/level$ 
+user@warchall : /home/level$ 
 
-rajoharitiana7@warchall : /home/level/00$ cat "nom_du_fichier".txt
+user@warchall : /home/level/00$ cat "nom_du_fichier".txt
 
-rajoharitiana7@warchall : /home/level/01$ grep -rn "solution" *
+user@warchall : /home/level/01$ grep -rn "solution" *
 
-rajoharitiana7@warchall : /home/level/02/.porb$ solution
+user@warchall : /home/level/02/.porb$ solution
 
-rajoharitiana7@warchall : /home/level/03$ cat .bash_history
+user@warchall : /home/level/03$ cat .bash_history
 
-rajoharitiana7@warchall : /level/04$ "solution".md 
+user@warchall : /level/04$ "solution".md 
 
-rajoharitiana7@warchall : /home/level/05$ cat "solution".md
+user@warchall : /home/level/05$ cat "solution".md
 
 --bash
