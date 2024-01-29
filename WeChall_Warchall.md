@@ -19,7 +19,7 @@ user@warchall : /home/level/00$ cat "nom_du_fichier".txt
 --bash
 
 ## Level 1
-La commande grep
+L'utilisation de la commande grep pour rechercher un motif dans le fichier qui contient la solution sans y accèder directement
 --bash
 
 user@warchall : /home/level/01$ grep -rn "solution" *
@@ -35,7 +35,6 @@ user@warchall : /home/level/02/.porb$ solution
 --bash
 
 ## Level 3
-
 --bash
 
 user@warchall : /home/level/03$ cat .bash_history
@@ -43,7 +42,6 @@ user@warchall : /home/level/03$ cat .bash_history
 --bash
 
 ## Level 4
-
 --bash
 
 user@warchall : /level/04$ "solution".md 
@@ -51,7 +49,6 @@ user@warchall : /level/04$ "solution".md
 --bash
 
 ## Level 5
-
 --bash
 
 user@warchall : /home/level/05$ cat "solution".md
