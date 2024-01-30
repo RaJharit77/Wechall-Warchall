@@ -19,7 +19,8 @@ user@warchall:/home/level/00$ cat "nom_du_fichier".txt
 --bash
 
 ## Level 1
-L'utilisation de la commande grep pour rechercher un motif dans le fichier qui contient la solution sans y accèder directement
+L'utilisation de la commande grep pour rechercher un motif dans le fichier qui contient la solution sans y accèder directement.
+
 --bash
 
 user@warchall:/home/level/01$ grep -rn "solution" *
@@ -43,7 +44,7 @@ user@warchall:/home/level/03$ cat .bash_history
 --bash
 
 ## Level 4
-La solution se trouve dans le dossier "level" principal et aussi dans le fichier ".md"
+La solution se trouve dans le dossier "level" principal et aussi dans le fichier ".md".
 
 --bash
 
@@ -61,12 +62,14 @@ user@warchall:/home/level/05$ cat "solution".md
 --bash
 
 ## Level 12
+J'ai modifié le fichier python puis j'ai accédée dans un dossier "tmp" ainsi que j'ai découvert la solution.
 
 --bash
 
-user@warchall:/home/level/12_pytong$ 
+user@warchall:/tmp$ ./pytong ./check
 
 --bash
+
 ## Level 14
 J'ai modifié le lien de ce site web puis une fichier de code s'affiche sur la page en format ".php" après une code html de base 64 affiche la solution pour ce défi
 dans la code source de la page.
