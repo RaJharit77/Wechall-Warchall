@@ -3,8 +3,8 @@
 ## Warchall - The beginning
 
 ## Level 0
-Tout d'abord, je suis rentré dans "Register" pour créer un compte de WeChall pour les challenges afin d'enregistrer mon parcours pendant les défis. Après j'ai réconfiguré mon ssh puis il m'envoye mon compte ssh avec un message de succès de la configuration, je peux connecté à mon ssh depuis mon terminale. Pour information, j'ai utilisé la terminale sur windows "invite de commande" pour connecter à mon compte ssh.
-J'ai débuté par le commande ls pour voir les contenus et j'ai trouvé un dossier "level" pour le challenge dans le dossier "home" ensuite j'ai commencé par le niveau 0.
+Tout d'abord, je suis rentré dans "Register" pour créer un compte de WeChall pour les challenges afin d'enregistrer mon parcours pendant les défis. Après j'ai réconfiguré mon ssh avec un message de succès de la configuration. Pour information, j'ai utilisé la terminale sur windows "invite de commande" pour connecter à mon compte ssh.
+J'ai débuté par le commande "pwd", "ls" pour voir les contenus et j'ai trouvé un dossier "level" pour le challenge dans le dossier "home" ensuite j'ai commencé par le niveau 0.
 
 --bash 
 
