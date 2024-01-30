@@ -28,7 +28,7 @@ user@warchall:/home/level/01$ grep -rn "solution" *
 --bash
 
 ## Level 2
-La solution est dans le dossier "./porb"
+La solution est dans le dossier "./porb".
 
 --bash
 
@@ -37,7 +37,8 @@ user@warchall:/home/level/02/.porb$ solution
 --bash
 
 ## Level 3
-J'ai utilisé la commande "cat"
+J'ai utilisé la commande "cat".
+
 --bash
 
 user@warchall:/home/level/03$ cat .bash_history
@@ -54,7 +55,7 @@ user@warchall:/level/04_kwisatz$ cat "solution".md
 --bash
 
 ## Level 5
-La solution se trouve dans le fichier ".md"
+La solution se trouve dans le fichier ".md".
 
 --bash
 
