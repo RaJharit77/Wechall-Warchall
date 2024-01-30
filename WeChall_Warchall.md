@@ -12,9 +12,9 @@ Sur mon terminale : ssh -p19198 user@warchall.net
 
 user@warchall.net's password : ******
 
-user@warchall : /home/level$ 
+user@warchall:/home/level$ 
 
-user@warchall : /home/level/00$ cat "nom_du_fichier".txt
+user@warchall:/home/level/00$ cat "nom_du_fichier".txt
 
 --bash
 
@@ -22,7 +22,7 @@ user@warchall : /home/level/00$ cat "nom_du_fichier".txt
 L'utilisation de la commande grep pour rechercher un motif dans le fichier qui contient la solution sans y accèder directement
 --bash
 
-user@warchall : /home/level/01$ grep -rn "solution" *
+user@warchall:/home/level/01$ grep -rn "solution" *
 
 --bash
 
@@ -30,27 +30,59 @@ user@warchall : /home/level/01$ grep -rn "solution" *
 La solution est dans le dossier "./porb"
 --bash
 
-user@warchall : /home/level/02/.porb$ solution
+user@warchall:/home/level/02/.porb$ solution
 
 --bash
 
 ## Level 3
+J'ai utilisé la commande "cat"
 --bash
 
-user@warchall : /home/level/03$ cat .bash_history
+user@warchall:/home/level/03$ cat .bash_history
 
 --bash
 
 ## Level 4
+La solution se trouve dans le dossier "level" principal et aussi dans le fichier ".md"
+
 --bash
 
-user@warchall : /level/04$ "solution".md 
+user@warchall:/level/04_kwisatz$ cat "solution".md 
 
 --bash
 
 ## Level 5
+La solution se trouve dans le fichier ".md"
+
 --bash
 
-user@warchall : /home/level/05$ cat "solution".md
+user@warchall:/home/level/05$ cat "solution".md
+
+--bash
+
+## Level 12
+
+--bash
+
+user@warchall:/home/level/12_pytong$ 
+
+--bash
+## Level 14
+J'ai modifié le lien de ce site web puis une fichier de code s'affiche sur la page en format ".php" après une code html de base 64 affiche la solution pour ce défi
+dans la code source de la page.
+
+--bash 
+
+user@warchall:/home/level/14_live_fi/www/index.php$ cat "solution".php
+
+--bash
+
+## Level 15
+J'ai modifié le lien de ce site web puis une fichier de code s'affiche sur la page en format ".php" après une code html de base 64 affiche la solution pour ce défi
+dans la code source de la page.
+
+--bash
+
+user@warchall:/home/level/15_live_rfi/www/index.php$ <?php system(“cat solution.php”)?
 
 --bash
